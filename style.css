@@ -1,0 +1,53 @@
+*{
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    color: inherit;
+    list-style: none;
+    box-sizing: border-box;
+}
+
+.div1kotta{
+    display: flex;
+    justify-content: space-evenly;
+    column-gap: 60px;
+}
+.div2{
+    display: flex;
+    flex-direction: column;
+    row-gap: 35px;
+}
+.text1{
+    width: 500px;
+}
+
+.text2{
+    color: gray;
+    width: 500px;
+}
+.foto2{
+    width: 30px;
+    margin-top: 110px;
+    
+}
+.foto1 {
+    margin-top: 50px;
+    display: block;
+    width: 700px; 
+}
+.button1{
+    background-color: #fff;
+    border: none;
+    border: 1px solid rgb(218, 218, 218) ;
+    border-radius: 7px;
+    width: 100px;
+    height: 30px;
+}
+
+
+
+
+
+
+
+
